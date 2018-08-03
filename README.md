@@ -2,6 +2,8 @@
 
 Convert OBJ assets to [glTF](https://www.khronos.org/gltf) 2.0.
 
+This is a fork and update of the original OBJ2GLTF, with changes to accept vertex colors in the obj file and pass them off into the gtlf file
+
 ## Getting Started
 
 Install [Node.js](https://nodejs.org/en/) if you don't already have it, and then:
